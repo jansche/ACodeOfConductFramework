@@ -2,8 +2,6 @@
 
 # Table of Content
 
-- [Code of Conduct Framework for Create: Series -- working document
-1](#code-of-conduct-framework-for-devrel-events-working-document)
 - [What's the thing? Why do we need a Code of Conduct? We are all people
 with good intent only.](#whats-the-thing-why-do-we-need-a-code-of-conduct-we-are-all-people-with-good-intent-only.)
 - [Terminology](#terminology)
