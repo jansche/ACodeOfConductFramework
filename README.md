@@ -2,36 +2,36 @@
 
 # Table of Content
 
-[Code of Conduct Framework for Create: Series -- working document
+- [Code of Conduct Framework for Create: Series -- working document
 1](#code-of-conduct-framework-for-devrel-events-working-document)
-[What's the thing? Why do we need a Code of Conduct? We are all people
-with good intent only.
-2](#whats-the-thing-why-do-we-need-a-code-of-conduct-we-are-all-people-with-good-intent-only.)
-[Terminology](#terminology)
-[Creating Awareness](#choosing-a-code-of-conduct)
-[Before](#before-the-moment-a.k.a-publish-your-code-of-conduct-early)
-[During](#during-the-moment)
-[After](#after-the-moment)
-[Reporting of Incidents](#reporting-of-incidents)
-[Dealing with Incidents](#handling-incidents)
-[Decide on Severity](#decide-on-severity)
-[Logging](#logging)
-[Incident Communication](#incident-communication)
-[Consequences and Enforcement](#consequences-and-enforcement)
-[The Team](#the-team)
-[Team Setup](#team-setup)
-[Team Guidance](#team-guidance)
-[Internal Team Communication](#internal-team-communication)
-[Team Introduction](#team-introduction)
-[Team Wellbeing](#team-wellbeing)
-[Team Appreciation](#team-appreciation)
-[Retrospectives / Aftermath](#retrospectives-aftermath)
-[Ideas for improvements](#_Toc52351291)
-[Appendix](#appendix)
-[Sample CoCs 10](#sample-cocs)
-[Team Communication](#team-communication)
-[Sample Team Guidance](#sample-team-guidance)
-[Sources](#sources)
+- [What's the thing? Why do we need a Code of Conduct? We are all people
+with good intent only.](#whats-the-thing-why-do-we-need-a-code-of-conduct-we-are-all-people-with-good-intent-only.)
+- [Terminology](#terminology)
+- [Creating Awareness](#choosing-a-code-of-conduct)
+  * [Before](#before-the-moment-a.k.a-publish-your-code-of-conduct-early)
+  * [During](#during-the-moment)
+  * [After](#after-the-moment)
+- Incidents
+  * [Reporting of Incidents](#reporting-of-incidents)
+  * [Dealing with Incidents](#handling-incidents)
+  * [Decide on Severity](#decide-on-severity)
+  * [Logging](#logging)
+  * [Incident Communication](#incident-communication)
+- [Consequences and Enforcement](#consequences-and-enforcement)
+- [The Team](#the-team)
+  * [Team Setup](#team-setup)
+  * [Team Guidance](#team-guidance)
+  * [Internal Team Communication](#internal-team-communication)
+  * [Team Introduction](#team-introduction)
+  * [Team Wellbeing](#team-wellbeing)
+  * [Team Appreciation](#team-appreciation)
+- [Retrospectives / Aftermath](#retrospectives-aftermath)
+- [Ideas for improvements](#_Toc52351291)
+- [Appendix](#appendix)
+  * [Sample CoCs 10](#sample-cocs)
+  * [Team Communication](#team-communication)
+  * [Sample Team Guidance](#sample-team-guidance)
+  * [Sources](#sources)
 
 ## What's the thing? Why do we need a Code of Conduct? We are all people with good intent only.
 
