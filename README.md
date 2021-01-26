@@ -26,7 +26,7 @@ with good intent only.](#whats-the-thing-why-do-we-need-a-code-of-conduct-we-are
 - [Retrospectives / Aftermath](#retrospectives-aftermath)
 - [Ideas for improvements](#_Toc52351291)
 - [Appendix](#appendix)
-  * [Sample CoCs 10](#sample-cocs)
+  * [Sample CoCs](#sample-cocs)
   * [Team Communication](#team-communication)
   * [Sample Team Guidance](#sample-team-guidance)
   * [Sources](#sources)
@@ -432,14 +432,11 @@ More points to prove (work in progress)
 After the event you want to probably report back what has happened. Even
 if nothing happened, which is unlikely, to be honest.
 
-Example email link. 
+Example email: 
 
 TL;DR We had a friendly audience. Only few things to mention.
 Recommendation is to  keep this level of investment into Code of Conduct
-(CoC) work. We can still learn a
-lot. ![🙂](media/image5.png){width="0.27847222222222223in"
-height="0.27847222222222223in"}
-
+(CoC) work. We can still learn a lot. 
  
 
 Until now were 3 incidents that the team considered worth filing on our
@@ -476,7 +473,7 @@ orga team. This was done today.
 
 
 Thanks for creating a wonderful event. And thanks to this "team
-formidable" for their Code of Conduct duty. ❤
+formidable" for their Code of Conduct enforcement duty. ❤
 
 Jan
 
@@ -509,7 +506,6 @@ Jan
 > messages? Can I report chat messages without reporting the user? Can I
 > ban users?
 
-#### ![A screenshot of the web site describing reporting steps on the Twitch platform.](media/image6.png){width="5.2710662729658795in" height="2.6956517935258093in"}
 
 #### Twitter / Periscope
 
@@ -518,8 +514,6 @@ Jan
 > the two of you have to follow each other. Muting and blocking of users
 > is possible then through the app only.
 >
-> ![](media/image7.png "Inserting image..."){width="2.3125in"
-> height="5.0in"}
 >
 > <https://help.twitter.com/en/using-twitter/report-content>
 
@@ -531,12 +525,6 @@ Jan
 > person external to the org owning the Live Event can't be promoted to
 > moderator.
 >
-> ![A screenshot of a Q&A moderated chat in Teams, showing the
-> \"published\" tab.](media/image8.png){width="2.1565212160979876in"
-> height="1.5333705161854767in"} ![A screenshot of a Q&A moderated chat
-> in Teams showing the \"Dismissed\"
-> tab.](media/image9.png){width="2.0608694225721784in"
-> height="2.7900984251968506in"}
 >
 > After you delete (not dismiss) a comment, it won't show up anywhere
 > anymore. Be sure to make screenshots first.
