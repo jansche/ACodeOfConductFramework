@@ -188,11 +188,6 @@ When you log an incident to the agreed logging platform, please provide
 
 -   **what you need** from other folks on the team to find a resolution.
 
-![A screenshot of a Teams conversation logging disrespectful behaviour
-of community members, providing a screenshot in the post, a description
-of what was going on and a list of names (spaced out in this screenshot
-for privacy reasons). ](media/image1.tiff){width="6.5in"
-height="3.9506944444444443in"}
 
 When you log an incident, please remember
 
