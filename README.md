@@ -412,14 +412,13 @@ More points to prove (work in progress)
 
 ### Sample CoCs
 
-<https://github.com/microsoft/virtual-events/blob/main/virtual-event-code-of-conduct.md>
-(External version of the above CoC)
-
 <https://www.contributor-covenant.org/>
 
 <https://berlincodeofconduct.org> (available in many European languages)
 
 <https://hashtagcauseascene.com/code-of-conduct/>
+
+<https://github.com/microsoft/virtual-events/blob/main/virtual-event-code-of-conduct.md>
 
 
 ### Team Communication
